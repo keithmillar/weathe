@@ -1,4 +1,4 @@
-wearthe
+wearther
 =======
 
 records weather info
